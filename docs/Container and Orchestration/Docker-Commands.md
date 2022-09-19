@@ -20,8 +20,9 @@ Options:
 ```
 
 ==Management Commands==
-Command | Description
-----| ----
+
+Command | Description 
+---| ---
 builder| Manage builds 
 config| Manage Docker configs 
 container| Manage containers 
