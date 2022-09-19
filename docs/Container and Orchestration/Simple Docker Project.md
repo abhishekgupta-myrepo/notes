@@ -86,7 +86,7 @@ cd637
 - To develop a CI pipeline from Github project using Travis CI app refer to the notes on [[CI with Travis]]
 	- This takes it to full circle where once the code is developed, tested locally, and committed to the git repo in Github a continuous integration tool such as Travis can be used for continuous build that gets triggered for each commit to compile the code and push the image into a remote repository such as docker hub.
 
----
+
 ---
 - These notes are based on my understanding of the topic. Some of the content and images refers to the online articles, learning courses I attended. I encourage you to lookup the links provided to develop your own understanding of it at deeper level.
 - The intention of these notes is to serve as reference marker to other sites, online courses, books that I found useful while learning about it.

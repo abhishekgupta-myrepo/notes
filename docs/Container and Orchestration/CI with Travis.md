@@ -32,7 +32,7 @@ flowchart LR
 
 - At the end of this CI pipeline a CD (Continuous Deployment) platform can then take up the image pushed into the remote repo to update the Kubernetes cluster based environment running.
 
----
+
 ---
 - These notes are based on my understanding of the topic. Some of the content and images refers to the online articles, learning courses I attended. I encourage you to lookup the links provided to develop your own understanding of it at deeper level.
 - The intention of these notes is to serve as reference marker to other sites, online courses, books that I found useful while learning about it.

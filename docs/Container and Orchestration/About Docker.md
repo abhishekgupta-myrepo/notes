@@ -50,7 +50,7 @@ The commands for docker are available at [[Docker-Commands]]
 
 Once docker desktop is installed a simple docker based POC conducted can be performed following steps mentioned in [[Simple Docker Project]]
 
----
+
 ---
 - These notes are based on my understanding of the topic. Some of the content and images refers to the online articles, learning courses I attended. I encourage you to lookup the links provided to develop your own understanding of it at deeper level.
 - The intention of these notes is to serve as reference marker to other sites, online courses, books that I found useful while learning about it.

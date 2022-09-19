@@ -74,7 +74,8 @@ PS C:\Users\abhis\Projects\docker_poc> docker-compose stop
 	- Docker Swarm: look at the notes @ [[Docker-Swarm]]. This is native to Docker and comes installed with docker desktop.
 	- Kubernetes: look at the notes @[[Kubernetes]]. It is the current industry standard. Instead of setting up your own Kubernetes cluster most common practice is to use it as a managed services through cloud providers such as GCP or AWS.
 	- Mesos
----
+
+
 ---
 - These notes are based on my understanding of the topic. Some of the content and images refers to the online articles, learning courses I attended. I encourage you to lookup the links provided to develop your own understanding of it at deeper level.
 - The intention of these notes is to serve as reference marker to other sites, online courses, books that I found useful while learning about it.
